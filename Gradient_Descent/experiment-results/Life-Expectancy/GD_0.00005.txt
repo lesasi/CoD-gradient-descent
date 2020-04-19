@@ -1,0 +1,6 @@
+Results for Life-Expectancy dataset: 
+Gradient Descent- With learning rate: 0.00005 Done in  37999  iterations: 
+After training and testing on selected test data:
+ loss:  0.297938910115163 
+ Mean loss:  0.3161057293331 
+ Time taken for training:  97.7470000000001 s

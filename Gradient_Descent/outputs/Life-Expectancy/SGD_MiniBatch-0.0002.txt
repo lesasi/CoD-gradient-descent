@@ -1,0 +1,6 @@
+Results for Life-Expectancy dataset: 
+SGD_MiniBatch- 64 batch- With learning rate: 0.0002 Done in 400 iterations: 
+After training and testing on selected test data:
+ RMSloss:  0.30323623572264 
+ Mean loss:  0.324861125357707 
+ Time taken for training:  3.51799999999997 s

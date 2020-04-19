@@ -1,0 +1,6 @@
+Results for Life-Expectancy dataset: 
+Stochastic Gradient Descent- With learning rate: 0.00005 Done in 50 iterations: 
+After training and testing on selected test data:
+ loss:  0.282430351875748 
+ Mean loss:  0.306589694641277 
+ Time taken for training:  23.848 s

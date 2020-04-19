@@ -1,0 +1,12 @@
+How to Run the Code:
+To run the code for gradient descent, go to the folder '/code' and once inside,run the file 'main.R'.
+
+What Happens When the Code is Run:
+There, user will be prompted to enter which dataset to use(Life-expectancy or the Wine dataset).
+Then, user will be prompted to enter which algorithm to use(normal gradient descent, stochastic gradient descent or mini- batch gradient descent).
+Finally, user will be prompted to enter the learning rate- This must a number less than 0.1, or else the model will not work due to large
+coefficients being generated. It is reccomended to enter a number from 0.00001 to 0.0001 for best results.
+
+Outputs:
+The algorithm will then begin iterating till it has converged on a minimum error. It will then print out the results to screen,and also
+store this result in the folder '/outputs'- look in the folders inside(Life-Expectancy and Wine) for the corresponding results.

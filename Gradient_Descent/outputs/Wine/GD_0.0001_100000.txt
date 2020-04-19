@@ -1,0 +1,6 @@
+Results for Wine dataset: 
+Gradient Descent- With learning rate: 0.0001 Done in  100000  iterations: 
+After training and testing on selected test data:
+ RMSloss:  0.59318000979699 
+ Mean loss:  0.648269554656855 
+ Time taken for training:  383.533 s

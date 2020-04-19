@@ -1,0 +1,6 @@
+Results for Wine dataset: 
+SGD-MiniBatch_ 64 batch- With learning rate: 0.00005 Done in 1900 iterations: 
+After training and testing on selected test data:
+ loss:  0.600266161480045 
+ Mean loss:  0.662920859076826 
+ Time taken for training:  72.0890000000001 s

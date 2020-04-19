@@ -1,0 +1,6 @@
+Results for Wine dataset: 
+Stochastic Gradient Descent- With learning rate: 0.00005 Done in 51 iterations: 
+After training and testing on selected test data:
+ loss:  0.599753590937894 
+ Mean loss:  0.660066738301991 
+ Time taken for training:  135.961 s

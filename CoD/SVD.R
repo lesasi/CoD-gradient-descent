@@ -1,0 +1,9 @@
+svd_reduce<-function(x,y,new_dim){
+  svd_model<-svd(x)
+  u_svd<-as.matrix(svd_model$u)[,1:new_dim]
+  d_svd<-as.matrix(diag(svd_model$d[1:new_dim]))
+  v_svd<-t(as.matrix(svd_model$v)[,1:new_dim])
+  reduced_x<-u_svd%*%d_svd%*%v_svd
+  reduced_dataset<-data.frame(cbind(y,reduced_x))
+  return(reduced_dataset)
+}
